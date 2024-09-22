@@ -28,10 +28,11 @@
 
 - Header | Home Page
 - Banner | Home Page
+- Vercel Deployment | Failed
 
 **Phase 2**
 
 - Menu/Hot Coffees | Home Page
-- Initial Deployment Github Pages
+- Initial Deployment | Github Pages
 
 _Note:_ This is under developement project. Learning and practicing.
